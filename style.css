@@ -1,0 +1,27 @@
+main {
+  border: 5px solid #4285f4;
+  width: 20%;
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+
+.North {
+  background: #E67676;
+}
+.East {
+  background: #F2F062;
+}
+.South {
+  background: #A9E6E6;
+}
+.West {
+  background: #7692E4;
+}
+
+p {
+  text-align: center;
+  padding: 25px;
+  margin: 0px;
+}
